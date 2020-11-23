@@ -16,7 +16,7 @@ Las herramientas usadas para mi app son angular para el frontend, y un backend c
 La app solo requiere de windows 10, un backend funcionando con cualquier ide (preferiblemente visual studio), con los plugins adecuados instalados y la propia aplicación
 
 # Casos de uso <a name="idCasosDeUso"></a>
-![picture](img/casosdeuso.png)
+![picture](img/casosdeuso.PNG)
 
 # Interfaces <a name="idInterfaces"></a>
 
