@@ -4,7 +4,8 @@
   [2.Requisitos](#idRequisitos) <br/>
   [3.Casos de uso](#idCasosDeUso) <br/>
   [4.Diagrama e/r](#idDiagramaer) <br/>
-  [5.Interfaces](#idInterfaces) <br/>
+  [5.Diagrama de clases](#idDiagramaClases) <br/>
+  [6.Interfaces](#idInterfaces) <br/>
 
 # Introduccion <a name="idIntroduccion"></a>
 
@@ -23,6 +24,8 @@ La app solo requiere de windows 10, un backend funcionando con cualquier ide (pr
 ![picture](img/er.jpeg)
 ![picture](img/er2.jpeg)
 
+# Diagrama de clases <a name="idDiagramaClases"></a>
+![picture](img/diagramaDeClases.PNG)
 # Interfaces <a name="idInterfaces"></a>
 
 La app comienza con un mapa para elegir el municipio, en el cual clicamos o elegimos en un combobox el municipio sobre el que queramos la información, tras esto tenemos un login sencillo y luego dependiendo de si somos un alumno/padre, administrador o profesorado nos redirige a las ventanas adecuadas
