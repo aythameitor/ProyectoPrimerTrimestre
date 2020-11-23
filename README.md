@@ -30,8 +30,8 @@ La app solo requiere de windows 10, un backend funcionando con cualquier ide (pr
 
 La app comienza con un mapa para elegir el municipio, en el cual clicamos o elegimos en un combobox el municipio sobre el que queramos la información, tras esto tenemos un login sencillo y luego dependiendo de si somos un alumno/padre, administrador o profesorado nos redirige a las ventanas adecuadas
 
-![picture](img/capturaMapa.PNG)
-![picture](img/capturaLogin.PNG)
-![picture](img/capturaAlumno.PNG)
-![picture](img/capturaEditarAlumno.PNG)
+![picture](img/CapturaMapa.PNG)
+![picture](img/CapturaLogin.PNG)
+![picture](img/CapturaAlumno.PNG)
+![picture](img/CapturaEditarAlumno.PNG)
 
