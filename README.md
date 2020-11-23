@@ -37,4 +37,4 @@ La app comienza con un mapa para elegir el municipio, en el cual clicamos o eleg
 
 Cabe aclarar que estas capturas son del prototipo, el programa aun está sometido a cambios, además, en la última captura se muestra la visión de los profesores / administradores para editar alumnos, esa interfaz es la misma para los profesores y las escuelas, pero estas dos últimas solo son accesibles por los administradores, en la barra de navegación irá un menú lateral (se abre por el lado derecho de la pantalla) que nos permitirá cambiar detalles como el tamaño de la letra (referidos todos a accesibilidad)
 
-Con estas capturas queda claro que la aplicación no es difícil de entender y usar, por lo que personas con poca práctica podrían hacer uso de la misma
+Con estas capturas queda claro que la aplicación no es difícil de entender y usar, por lo que personas con poca práctica podrían hacer uso de la misma, también cabe aclarar que he usado una paleta de colores fríos para que la aplicación no resulte muy llamativa y darle así un tono mas serio
