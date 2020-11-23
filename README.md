@@ -20,6 +20,8 @@ La app solo requiere de windows 10, un backend funcionando con cualquier ide (pr
 ![picture](img/casosdeuso.PNG)
 
 # Diagrama entidad relación <a name="idDiagramaer"></a>
+![picture](img/er.jpeg)
+![picture](img/er2.jpeg)
 
 # Interfaces <a name="idInterfaces"></a>
 
