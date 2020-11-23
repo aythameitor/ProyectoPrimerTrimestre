@@ -1,9 +1,9 @@
 # Proyecto inicial (obesidad en canarias)
 
-  1.Introduccion
-  2.Requisitos
-  [3.Casos de uso] (#idCasosDeUso)
-  4.Interfaces
+  1.Introduccion <br/>
+  2.Requisitos <br/>
+  [3.Casos de uso](#idCasosDeUso) <br/>
+  4.Interfaces <br/>
 
 # Introduccion
 
