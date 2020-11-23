@@ -3,7 +3,8 @@
   [1.Introduccion](#idIntroduccion) <br/>
   [2.Requisitos](#idRequisitos) <br/>
   [3.Casos de uso](#idCasosDeUso) <br/>
-  [4.Interfaces](#idInterfaces) <br/>
+  [4.Diagrama e/r](#idDiagramaer) <br/>
+  [5.Interfaces](#idInterfaces) <br/>
 
 # Introduccion <a name="idIntroduccion"></a>
 
@@ -17,6 +18,8 @@ La app solo requiere de windows 10, un backend funcionando con cualquier ide (pr
 
 # Casos de uso <a name="idCasosDeUso"></a>
 ![picture](img/casosdeuso.PNG)
+
+# Diagrama entidad relación <a name="idDiagramaer"></a>
 
 # Interfaces <a name="idInterfaces"></a>
 
